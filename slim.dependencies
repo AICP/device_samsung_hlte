@@ -1,0 +1,42 @@
+[
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "cm-11.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch":      "cm-11.0"
+  },
+  {
+   "repository": "CyanogenMod/android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common",
+    "branch":      "cm-11.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_samsung_hlte",
+    "target_path": "device/samsung/hlte",
+    "branch":      "cm-11.0"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_samsung_hlte",
+    "target_path": "kernel/samsung/hlte",
+    "branch":      "cm-11.0"
+  },
+    "repository": "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "cm-11.0"
+  },
+  {
+    "repository":  "CyanogenMod/android_hardware_qcom_display-caf-new",
+    "target_path": "hardware/qcom/display-caf",
+    "branch":      "cm-11.0"
+  },
+  {
+    "repository":  "CyanogenMod/android_hardware_qcom_media-caf-new",
+    "target_path": "hardware/qcom/media-caf-new",
+    "branch":      "cm-11.0"
+  }
+]
+
