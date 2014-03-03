@@ -51,6 +51,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     device/samsung/hlte/media/media_profiles.xml:system/etc/media_profiles.xml
 
+# Note3 Advanced Settings
+PRODUCT_PACKAGES += \
+GalaxyNote3Settings
+
 # Extended media support
 PRODUCT_PACKAGES += \
     qcmediaplayer
