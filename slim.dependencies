@@ -15,15 +15,11 @@
     "branch":      "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/android_device_samsung_hlte",
-    "target_path": "device/samsung/hlte",
-    "branch":      "cm-11.0"
-  },
-  {
     "repository": "CyanogenMod/android_kernel_samsung_hlte",
     "target_path": "kernel/samsung/hlte",
     "branch":      "cm-11.0"
   },
+  {
     "repository": "CyanogenMod/android_hardware_samsung",
     "target_path": "hardware/samsung",
     "branch":      "cm-11.0"
