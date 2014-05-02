@@ -255,6 +255,9 @@
     <bool name="config_enableLockScreenTranslucentDecor">true</bool>
     <bool name="config_enableTranslucentDecor">true</bool>
 
+    <!-- Enable lockscreen rotation -->
+    <bool name="config_enableLockScreenRotation">true</bool>
+
     <!-- Boolean to enable stylus gestures -->
     <bool name="config_stylusGestures">true</bool>
 
