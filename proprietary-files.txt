@@ -4,6 +4,7 @@ bin/mpdecision
 bin/radish
 bin/rfs_access
 #bin/prepare_param.sh
+bin/mount.exfat
 
 # Thermal
 bin/thermald
