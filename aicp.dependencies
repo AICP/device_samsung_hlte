@@ -10,9 +10,9 @@
     "branch":      "cm-11.0"
   },
   {
-   "repository": "AICP/device_samsung_msm8960-common",
-    "target_path": "device/samsung/msm8960-common",
-    "branch":      "kitkat"
+   "repository": "CyanogenMod/android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch":      "cm-11.0"
   },
   {
     "repository": "CyanogenMod/android_kernel_samsung_hlte",
