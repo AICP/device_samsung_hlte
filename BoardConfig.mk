@@ -43,6 +43,9 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x02900000 --tags_offset 0x02700000
 BOARD_KERNEL_SEPARATED_DT := true
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/hlte/mkbootimg.mk
 
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
+
 # Graphics
 BOARD_EGL_CFG := device/samsung/hlte/egl.cfg
 
