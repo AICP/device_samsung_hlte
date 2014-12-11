@@ -10,9 +10,9 @@
     "branch": "lp5.0"
   },
   {
-    "repository": "temasek/android_device_samsung_hlte-common",
+    "repository": "AICP/device_samsung_hlte-common",
     "target_path": "device/samsung/hlte-common",
-    "branch": "cm-12.0"
+    "branch": "lp5.0"
   },
   {
     "repository": "temasek/android_kernel_samsung_hlte",
